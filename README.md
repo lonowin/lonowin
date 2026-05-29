@@ -9,7 +9,7 @@
 ✨ Full-stack developer & cybersecurity enthusiast who loves blending **tech + gaming + creativity**.  
 ⚡ *Motto*: *"Code everything. Secure everything."*  
 
-📫 Reach me: **lonown@gmail.com**
+📫 Reach me: **lonowin@gmail.com**
 
 ---
 
