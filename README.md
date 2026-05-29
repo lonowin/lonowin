@@ -15,7 +15,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://discord.com/users/1041583842097635368" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
+  <a href="https://discord.com/users/455776700018458625" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
   <a href="mailto:lonown@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
   <a href="https://github.com/lonowin" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </p>
